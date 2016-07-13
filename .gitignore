@@ -26,3 +26,5 @@ _testmain.go
 
 .idea
 GoPractices.iml
+pkg
+src/github.com
